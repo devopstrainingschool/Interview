@@ -36,5 +36,22 @@
 ## 19. What is a du command in Linux?
 ### du command in Linux is used to retrieve more detailed information about which files use the disk space in a directory
 ### du -sh filename
-## 20. list other linux commands that you may know
+## 20. what command to update a linux server?
+## 21. How to see the linux flavor?
+## 22. what are the inventory commands?
+## 23. how to see since when the server is running?
+## 24. How to see who is connected?
+## 25. How to see who is connected and who was connected?
+## 26. What is the command to create a user?
+## 27. What is the command to create a group?
+## 28. what is the command to change the group of a user?
+## 29. What is the command to see the list of all the users? what about the passwd? what about group?
+## 30. hwt is a gateway?
+## 31. what is a network?
+## 32. what are thetype of ip address?
+## 33. what is LAN, WAN, MAN, PAN?
+## 34. What is TCP? what about UDP?
+## 35. From TCP/UDP , which one is the safest?the fastest?
+## 36. What is the first line of a script?
+## 37. list other linux commands that you may know
 
