@@ -46,4 +46,32 @@
 ### They are:
 ### Owner: Owners only will have to access the file or directory, they will not impact the actions of other users.
 ### Group: These permissions apply only to the group, that has been assigned to the file or directory. They will not impact the actions of other users.
-### All Users: These permissions are applied to all users on the system
+### All Users: These permissions are applied to all users on the system.
+## 16. What Is a File system in Linux?
+### Linux file system stores and handles the data.
+## 17. How to check the default route and routing table?
+### To display the default route and routing table, we use the following commands.
+
+### $ route -n
+
+### $ netstat -rn
+## 18. How to check which ports are listening in my Linux Server?
+### We have two commands to check which ports are in listening in Linux Server. Following are the two commands 
+
+### netstat --listen
+### netstat -l
+## 19. How to change the default run level in Linux?
+### To change the default run level in Linux use the init command.
+## 20. What are the default ports used for SMTP, DNS, FTP, DHCP, SSH, and squid?
+### Details mentioned below
+
+### Service          Port
+### SMTP              25
+### DNS               53
+### FTP               20(Data Transfer) 21(Connections Established)
+### DHCP              68(dhcp client), 67(DHCP server)
+### SSH               22
+### HTTP              80
+### HTTPS             443
+
+
