@@ -35,4 +35,6 @@
 ### df -h
 ## 19. What is a du command in Linux?
 ### du command in Linux is used to retrieve more detailed information about which files use the disk space in a directory
+### du -sh filename
+## 20. list other linux commands that you may know
 
