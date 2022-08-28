@@ -54,4 +54,11 @@
 ## 35. From TCP/UDP , which one is the safest?the fastest?
 ## 36. What is the first line of a script?
 ## 37. list other linux commands that you may know
+# 38. What are the type of storages?
+DAS direct Attached storage
+NAS Network atached storage
+SAN Staorage Area network
+# 39. in what directory we store log files?
+/var/log
+# 40. How to list processes? what is PID? PPID?
 
