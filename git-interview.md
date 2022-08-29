@@ -12,5 +12,5 @@
 ## 6- what is git log?
 ### The git log shows all the information about all the commits such as commit number , author, date , files added.
 ## 7- How to create a new branch on your repository?
-### git checkout -b <new branch name>
+### git checkout -b new branch name
 ##
