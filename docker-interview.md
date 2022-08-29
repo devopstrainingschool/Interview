@@ -29,7 +29,13 @@
 ### docker logs container_name(or ID)
 ## 14- What is a command to pull an image locally?
 ## 15- What is the command to run a command inside a conatiner?
-### docker exec container_ID command_to_execute
+### docker exec <container_ID> <command_to_execute>
 ### for example, docker exec 386hdj pwd
 ## 16- what is the command to build a docker image?
-# 17- What is the command to push docker image to remote artifactory?
+## 17- What is the command to push docker image to remote artifactory?
+## 18- WHat is the command to delete a docker image?
+### docker rmi Container_ID
+## 19- What are the docker-compose commands that you know?
+### docker-compose up a, docker-compose down, docker-compose version.
+## 20 What do we need to run docker-compose?
+### we need docker-compose.yaml file
