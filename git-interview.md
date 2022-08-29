@@ -13,4 +13,11 @@
 ### The git log shows all the information about all the commits such as commit number , author, date , files added.
 ## 7- How to create a new branch on your repository?
 ### git checkout -b new branch name
-##
+## 8- What is the command to see all branches?
+### git branch
+## 9- what is a command to delete git branch?
+### git branch -d branch_name
+## 10- Whaat is the git merge command ?
+## 11- 
+
+
