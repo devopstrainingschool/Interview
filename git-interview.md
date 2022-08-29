@@ -18,6 +18,11 @@
 ## 9- what is a command to delete git branch?
 ### git branch -d branch_name
 ## 10- Whaat is the git merge command ?
-## 11- 
+## 11- What is the difference between git pull and git fetch?
+### git fetch clone the changes locally only , but git pull clones the changes locally and merge them to our repository.
+## 12- What is git fork?
 
-
+## 13- What is a pull request?
+## 14- How to solve git conflict?
+# Challenge question to research
+## 15- What is the differenc between git rebase and git merge?
