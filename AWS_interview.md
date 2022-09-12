@@ -33,3 +33,17 @@
 ## 19- What are the types of IP addresses?
 ### public IP/ Private IP/ ELastic IP
 ## 20- WHat is NAT Gateway?
+## 21- What is AMI?
+## 22- what are the types of AWS storages?
+### EBS / EFS/ S3 bucket
+## 23- What is Cloud Watch?
+## 24- what is a loadbalancer?
+## 25- What are the types of AWS databases?
+### - RDS( Relational database like mariadb, MYSQL,...)
+### - No RDS ( like dynamoDB)
+## 25- What ae the types of DB replicas?
+### synchronous and asynchronous
+## 26- what are the AWS CI/CD tools?
+### - AWS code commit
+### - AWS code build
+### - AWS code deploy
