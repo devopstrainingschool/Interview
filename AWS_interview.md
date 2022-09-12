@@ -49,6 +49,7 @@
 ### - AWS code deploy
 ### You can use code pipeline as well.
 ## 27- what is route 53?
+## 28- What is IP?DNS?URL?
 # Please learn aother services like IGW( internet gateway), key pair, bastion host, public/private network, route, Inbound/outbound
 # AWS Projects for Interview:
 ## 1- Create 3 tier applications with bastion hosts and high availability using the console.
