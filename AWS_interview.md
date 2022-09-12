@@ -47,3 +47,11 @@
 ### - AWS code commit
 ### - AWS code build
 ### - AWS code deploy
+### You can use code pipeline as well.
+## 27- what is route 53?
+# Please learn aother services like IGW( internet gateway), key pair, bastion host, public/private network, route, Inbound/outbound
+# AWS Projects for Interview:
+## 1- Create 3 tier applications with bastion hosts and high availability using the console.
+## 2- Migrate a school application from premise to AWS ( to do)
+## 3- Create 3 tier applications with bastion hosts and high availability using Terraform.
+## 4- Create a LAMP Stack application
