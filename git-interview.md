@@ -24,5 +24,10 @@
 
 ## 13- What is a pull request?
 ## 14- How to solve git conflict?
+## 15- hOW TO CLONE A REPO LOCALLY?
+### git clone repo_url
+## 16- How to pull a repo ?
+### git pull
 # Challenge question to research
 ## 15- What is the differenc between git rebase and git merge?
+
