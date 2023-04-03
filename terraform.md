@@ -26,4 +26,8 @@ terraform --version
 ## 9- what are the types of providers?
 #### we have the local/officials(waws,gcp,azure)/verified/community providers
 ## 10- What is the variable syntax?
-#### variable "namehere" { arguments }
+#### variable "namehere" { 
+####  description= "describe the variable here"
+####  type= "put the typpe of variable here"
+####  default= "put default value here"
+#### }
