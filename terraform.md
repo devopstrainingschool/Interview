@@ -23,3 +23,7 @@ terraform --version
 ![image](https://user-images.githubusercontent.com/107158398/229578989-a5db0c21-e4f2-418b-bc87-2b4e7c198d88.png)
 ## 8- What does terraform init do?
 #### It initialize the root directroy by installing plugins, initializing the backend, and the child modules
+## 9- what are the types of providers?
+#### we have the local/officials(waws,gcp,azure)/verified/community providers
+## 10- What is the variable syntax?
+#### variable "namehere" { arguments }
