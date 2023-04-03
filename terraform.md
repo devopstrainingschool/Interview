@@ -3,6 +3,6 @@
 terraform --version
 ```
 ## 2- what is a terraform resource?
-### It is an object manage by terraform
+#### It is an object manage by terraform
 ## 3- What are examples of resources?
-### VPC, EC2, Subnets, ...
+#### VPC, EC2, Subnets, ...
