@@ -9,7 +9,7 @@ terraform --version
 ## 4- What is terraform language?
 #### HCL ( Harshicorp configuration language)
 ## 5- What is terraform hcl syntax?
-#### <block>  <paramaters> {
+<block>  <paramaters> {
   key1=value1
   key2= vlaue2
   ..........
