@@ -17,3 +17,7 @@ terraform --version
 ####  }
 ## 6- What are the types of blocks?
 #### resources, data, modules, output , variables, ...
+## 7- What are arguments?
+#### they are key pair values.
+##### On this picture the key are left of the equal sign and the value are in right
+![image](https://user-images.githubusercontent.com/107158398/229578989-a5db0c21-e4f2-418b-bc87-2b4e7c198d88.png)
