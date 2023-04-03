@@ -21,3 +21,5 @@ terraform --version
 #### they are key pair values.
 ##### On this picture the key are left of the equal sign and the value are in right
 ![image](https://user-images.githubusercontent.com/107158398/229578989-a5db0c21-e4f2-418b-bc87-2b4e7c198d88.png)
+## 8- What does terraform init do?
+#### It initialize the root directroy by installing plugins, initializing the backend, and the child modules
